@@ -1,0 +1,41 @@
+Centro Tecnológico de la Información y la Comunicación 
+DESARROLLADOR DE SOFTWARE
+Lima Perú
+Enero   Noviembre 
+Investigación e implementación de sistema de monitoreo de sensores climáticos
+ Diseño y desarrollo de la arquitectura de base de datos en series de tiempoNoSQL y base de datos MySQL
+ Creación e implementación de principios estándares procesos y soluciones basadas en diferentes patrones de arquitecturas según cada
+proyecto
+ Diagnóstico y corrección de errores en los programas y sistemas
+ Creación y desarrollo de nuevos programas y aplicaciones
+Implementó un entorno de monitoreo centralizado Grafana InfluxDB CollectD que recopila métricas del sistema así como métricas de tiempo
+de ejecución de Docker
+Grupo Carmelino
+DESARROLLADOR DE APLiCACiONES EN ANDROiD
+ Proposición de herramientas frameworks automatizaciones y procesos para el desarrollo de aplicaciones móviles
+ Creación de código óptimo para lograr la máxima velocidad y escalabilidad de las aplicaciones
+ Creación de landing pages microsites elementos interactivos y testing de bugs
+ Actualización y depuración de errores de aplicaciones web
+ Análisis de necesidades ejecutando el diseño de componentes visuales
+AHPNL Asociación Hispanoamericana PNL
+DESARROLLADOR DE SOFTWARE DE APLiCACiONES
+ Actualización y depuración de errores de aplicaciones web
+ Creación de landing pages microsites elementos interactivos y testing de bugs
+ Análisis de necesidades ejecutando el diseño de componentes visuales
+ Desarrollo de proyectos web con sistemas de gestión de contenidos como estaticos y dinamicos
+ Utilización de patrones de diseño de software
+ Elaboración de documentación técnica y establecimiento de procedimientos de seguridad
+ Colaboración efectiva con el resto de la organización de servicios y TI
+Publiultra sac
+DESARROLLADOR WEB
+Lima Perú
+Enero   Abril 
+Lima Perú
+Julio   Diciembre 
+Lima Perú
+Jun   Dic 
+ Creación de sitios web funcionales y fáciles de usar
+ Limpieza de páginas y reparación de enlaces o imágenes rotos
+ Desarrollo de aplicaciones adaptadas a CMS y ECommerce
+ Apoyo técnico al ciclo completo del proyecto desde el briefing inicial pasando por wireframes diseño web maquetación desarrollo progra
+mación y la publicación final

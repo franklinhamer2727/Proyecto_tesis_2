@@ -1,0 +1,37 @@
+UNI Universidad Nacional de Ingeniería
+PREGRADO CiENCiAS DE LA COMPUTACiÓN
+Lima Perú
+Mar   Ene 
+ Desarrolla nuevas técnicas computacionales
+ Propicia a través de la innovación permanente la formación de empresas de base tecnológica
+ Analiza un problema e identifica y define los requerimientos computacionales para su solución
+ Diseña implementa y evalúa un sistema proceso componente o programa computacional para alcanzar las necesidades deseadas
+ Aplica la base matemática principios de algoritmos y la teoría de la Ciencia de la Computación en el modelamiento y diseño de sistemas
+computacionales
+UNI Universidad Nacional de Ingeniería
+PREGRADO MATEMATiCA
+Lima Perú
+Mar   Diciembre 
+ La carrera de Matemática de la Universidad Nacional de Ingeniería estará en capacidad de resolver diversos problemas modelando y predi
+ciendo sus comportamientos para lo cual hace uso de las herramientas matemáticas En ambientes globales e interdisciplinarios estudiará
+modelos generados que surgen de problemas dinámicos Su capacidad científica adquirida le permite potenciar dimensionar controlar y
+predecir la información mediante modelos probabilísticos y estocásticos
+UNI Universidad Nacional de Ingeniería
+PDE MACHiNE LEARNiNG CON PYTHON
+Lima Perú
+Junio   Dic 
+ El Programa de Especialización en Machine Learning con Python tiene como objetivo primordial aprender cómo usar el lenguaje Python para
+implementar y aplicar algoritmos de aprendizaje automático y Estadística Esta es una habilidad muy importante para todos los analistas de
+datos y científicos de datos que deseen crear modelos predictivos Trabajará rápidamente con el paquete Scikitlearn para extraer e identificar
+las funciones útiles que mejor representen sus datos para crear modelos de clasificación y clustering y para evaluar el rendimiento de sus
+algoritmos de aprendizaje automático
+Curso de especialización en JAVA
+UDEMY
+ene  Marzo
+Lima Perú
+ Practicas en desarrollo utilizando programación orientado a objetos y patrones de diseños GoF recursividad programación funcional ex
+presiones lambda y API stream de Java  hilos threads concurrencia unit testing con JUnit  Mockito Java EE  Web ServletsJSP Weld
+CDI JPAHibernate JavaServer Faces JSF PrimeFaces AJAX Enterprise JavaBeans EJB API RESTful JAXRS Web Services SOAP JAXWS
+Seguridad JAAS Servidor de Aplicaciones JBoss Wildfly También incluimos Spring Boot y desarrollo Full Stack con Angular y Spring
+FEBRUARY  
+FRANKLiN HAMER JARA  RESUMEN

@@ -1,0 +1,12 @@
+Software
+DevOps
+Visual Strudio Jupyter Apache NetBeans Intellij Ide Sublime Text Eclipse
+AWS Docker Kubernetes Jenkins Github
+Backend Express Flask Django REST APILaravel php
+Frontend React HTML CSS
+Programming Nodejs Python JAVA C R LaTeX C
+Base de Datos
+Languages
+Español English
+Postgres MongoDB MySql Dynamon Prometheus Influxdb
+FEBRUARY

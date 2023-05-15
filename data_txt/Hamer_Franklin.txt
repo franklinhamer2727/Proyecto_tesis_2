@@ -1,0 +1,369 @@
+Franklin Hamer Jara
+
+DESARROLLADOR DE SOFTWARE · ANÁLiSTA DE DATOS
+Lima, Lima, Perú
+
+ (+51) 975-682-160 |  hamer.jara.o@uni.pe |  www.lic.hamer.com |  franklinhamer2727 |  franklinhamer
+
+“Vamos a encontrar una manera, o crear una manera de llegar allí.”
+
+Resumen
+Estudiante de décimo ciclo de la carrera de CIENCIAS DE LA COMPUTACIÓN de la UNIVERSIDAD NACIONAL DE INGENIERIA, con un gran interés en
+Desarrollo de Software, Análisis de datos y Machine Learning. Con capacidad para aprender y aplicar mis conocimientos al ámbito profesional.
+En busca de una oportunidad laboral en la que desarrollar mis habilidades y adquirir mayor experiencia.
+
+Persona versátil y capaz de simultanear varias tareas. Con experiencia en entornos laborales en los que se valora el compromiso y la capacidad de
+trabajar en equipo. Me caracterizo por mi dinamismo, proactividad y entusiasmo. Poseo buenos conocimientos digitales. Busco desarrollarme
+profesionalmente.
+
+Experiencia laboral
+
+Centro Tecnológico de la Información y la Comunicación .
+DESARROLLADOR DE SOFTWARE
+
+Lima, Perú
+
+Enero. 2022 ‑ Noviembre. 2022
+
+Investigación e implementación de sistema de monitoreo de sensores climáticos
+
+•
+• Diseño y desarrollo de la arquitectura de base de datos en series de tiempo(NoSQL) y base de datos MySQL.
+• Creación e implementación de principios, estándares, procesos y soluciones basadas en diferentes patrones de arquitecturas según cada
+
+proyecto.
+
+• Diagnóstico y corrección de errores en los programas y sistemas.
+• Creación y desarrollo de nuevos programas y aplicaciones.
+•
+
+Implementó un entorno de monitoreo centralizado (Grafana, InfluxDB, CollectD) que recopila métricas del sistema, así como métricas de tiempo
+de ejecución de Docker.
+
+Grupo Carmelino.
+DESARROLLADOR DE APLiCACiONES EN ANDROiD
+
+• Proposición de herramientas, frameworks, automatizaciones y procesos para el desarrollo de aplicaciones móviles.
+• Creación de código óptimo para lograr la máxima velocidad y escalabilidad de las aplicaciones.
+• Creación de landing pages, microsites, elementos interactivos, y testing de bugs.
+• Actualización y depuración de errores de aplicaciones web.
+• Análisis de necesidades, ejecutando el diseño de componentes visuales.
+
+AHPNL Asociación Hispanoamericana PNL
+DESARROLLADOR DE SOFTWARE DE APLiCACiONES
+
+• Actualización y depuración de errores de aplicaciones web.
+• Creación de landing pages, microsites, elementos interactivos, y testing de bugs.
+• Análisis de necesidades, ejecutando el diseño de componentes visuales.
+• Desarrollo de proyectos web con sistemas de gestión de contenidos como estaticos y dinamicos.
+• Utilización de patrones de diseño de software.
+• Elaboración de documentación técnica y establecimiento de procedimientos de seguridad.
+• Colaboración efectiva con el resto de la organización de servicios y TI.
+
+Publiultra s.a.c
+DESARROLLADOR WEB
+
+Lima, Perú
+
+Enero. 2022 ‑ Abril. 2022
+
+Lima, Perú
+
+Julio. 2021 ‑ Diciembre. 2021
+
+Lima, Perú
+
+Jun. 2019 ‑ Dic. 2019
+
+• Creación de sitios web funcionales y fáciles de usar.
+• Limpieza de páginas y reparación de enlaces o imágenes rotos.
+• Desarrollo de aplicaciones adaptadas a CMS y ECommerce.
+• Apoyo técnico al ciclo completo del proyecto, desde el briefing inicial, pasando por wireframes, diseño web, maquetación, desarrollo, progra‑
+
+mación y la publicación final.
+
+Honores y reconocimientos
+NACiONAL
+
+2020
+
+Finalista, Planificación del movimiento robótico con detección de obstáculos
+
+Lima, Perú
+
+Proyectos
+
+FEBRUARY 12, 2023
+
+FRANKLiN HAMER JARA · RESUMEN
+
+1
+
+Plataformas de tracking y monitoreo
+CENTRO TECNOLÓGiCO DE INVESTiGACiÓN CiENTíFiCO
+
+Lima, Perú
+
+Julio. 2022 ‑ Noviembre. 2022
+
+• Registros de flotas de camiones de diferentes empresas nacionales e internacional, registros de servicios de monitoreo de sensores e indi‑
+
+•
+
+cadores del estado de cada vehículo .
+Implementación en base de datos NoSQL para un alto rendimiento, con seguridad integrada como Dynamon y una instancia de base de datos
+de postgresSQL,que facilita las tareas de configuración y escalado para el registro de datos los servicios y clientes
+
+Plataforma de Gestión de tesis
+CENTRO TECNOLÓGiCO DE INVESTiGACiÓN CiENTíFiCO
+
+Lima, Perú
+
+Mayo. 2022 ‑ Presente
+
+• La Plataforma ofrece una escalabilidad automática y resiliencia para adaptarse a las necesidades de recursos en tiempo real y a lo largo de las
+
+diferentes operaciones.
+
+• La arquitectura de microservicios garantiza que diversos componentes de un mismo tipo sean implantados permanentemente. Esto permite
+
+hacer frente a todas las situaciones sin ninguna interrupción del servicio.
+
+Beegons!
+CENTRO TECNOLÓGiCO DE INVESTiGACiÓN CiENTíFiCO
+
+Lima, Perú
+
+Febrero. 2022 ‑ Presente
+
+• Plataforma con interfaces que soportan diferentes tecnologías y estándares de comunicación que permiten el envío y recepción de información
+Interconexión con distintas fuentes de datos (IoT, control, cámaras, etc.) y emplea el
+
+entre capas y desde sistemas de internos y externos.
+lenguaje común conforme a la especificación NGSI entre las diferentes capas
+
+• La Plataforma de Gestión Inteligente constituye el núcleo central de la solución por sus capacidades para la integración y explotación de difer‑
+entes fuentes y sistemas de datos, y por otro, por ser el punto desde el que se realizará la gestión horizontal de la información disponible.
+
+Carpool
+GRUPO CARMELiNO
+
+Lima, Perú
+
+Enero. 2022 ‑ Abril. 2022
+
+• App Desarrollado en Flutter que consume una API desarrollado en PHP Laravel con una base de datos Mysql bajo una aquitectura MVC
+• Esta aplicación es compatible con todos los servidores web estándar y todos los dispositivos móviles.
+
+Plataforma de registro de tickets y control de asistencia
+AHPNL ASOCiACiÓN HiSPANOAMERiCANA PNL
+
+Lima, Perú
+
+Julio. 2022 ‑ Diciembre.2022
+
+• Software de gestion inteligente propuesta sigue un modelo de arquitectura MVC, en el modelo se implementa una seria de funcionalidades sin
+
+afectar el resto de la arquitectura
+
+• La Plataforma de Gestión Inteligente resulta de un conjunto amplio de herramientas y módulos, interconectados entre sí y siguiendo una ar‑
+
+quitectura bien definida, que se sintetiza de manera conceptual junto con las tecnologías empleadas
+
+Plataforma cursos y capacitaciones
+AHPNL ASOCiACiÓN HiSPANOAMERiCANA PNL
+
+Lima, Perú
+
+JUlio. 2022 ‑ Diciembre.2022
+
+• Plataforma de registro de clientes y registro de matrículas así como la generación de reportes y envío de correos automáticos de cursos y
+
+membresıas.
+
+• El despliegue de la plataforma se realizó en los servidores propios de la empresa bajo la misma red, con miultiples usuarios y roles variados.
+
+Educación
+UNI (Universidad Nacional de Ingeniería)
+PRE‑GRADO CiENCiAS DE LA COMPUTACiÓN
+
+Lima, Perú
+
+Mar. 2018 ‑ Ene. 2023
+
+• Desarrolla nuevas técnicas computacionales.
+• Propicia a través de la innovación permanente la formación de empresas de base tecnológica.
+• Analiza un problema e identifica y define los requerimientos computacionales para su solución.
+• Diseña, implementa y evalúa un sistema, proceso, componente o programa computacional para alcanzar las necesidades deseadas.
+• Aplica la base matemática, principios de algoritmos y la teoría de la Ciencia de la Computación en el modelamiento y diseño de sistemas
+
+computacionales.
+
+UNI (Universidad Nacional de Ingeniería)
+PRE‑GRADO MATEMATiCA
+
+Lima, Perú
+
+Mar. 2015 ‑ Diciembre. 2017
+
+• La carrera de Matemática de la Universidad Nacional de Ingeniería, estará en capacidad de resolver diversos problemas modelando y predi‑
+ciendo sus comportamientos, para lo cual hace uso de las herramientas matemáticas. En ambientes globales e interdisciplinarios estudiará
+modelos generados que surgen de problemas dinámicos. Su capacidad científica adquirida le permite potenciar, dimensionar, controlar y
+predecir la información mediante modelos probabilísticos y estocásticos.
+
+UNI (Universidad Nacional de Ingeniería)
+PDE MACHiNE LEARNiNG CON PYTHON
+
+Lima, Perú
+
+Junio. 2022 ‑ Dic. 2022
+
+• El Programa de Especialización en Machine Learning con Python tiene como objetivo primordial aprender cómo usar el lenguaje Python para
+implementar y aplicar algoritmos de aprendizaje automático y Estadística. Esta es una habilidad muy importante para todos los analistas de
+datos y científicos de datos, que deseen crear modelos predictivos. Trabajará rápidamente con el paquete Scikit‑learn para extraer e identificar
+las funciones útiles que mejor representen sus datos, para crear modelos de clasificación y clustering, y para evaluar el rendimiento de sus
+algoritmos de aprendizaje automático.
+Curso de especialización en JAVA
+UDEMY
+
+ene. 2021 ‑Marzo‑2021
+
+Lima, Perú
+
+• Practicas en desarrollo utilizando programación orientado a objetos y patrones de diseños (GoF), recursividad, programación funcional, ex‑
+presiones lambda y API stream de Java 8, hilos (threads), concurrencia, unit testing con JUnit 5, Mockito, Java EE 9 Web Servlets/JSP, Weld
+CDI, JPA/Hibernate, JavaServer Faces (JSF), PrimeFaces, AJAX, Enterprise JavaBeans (EJB), API RESTful (JAX‑RS), Web Services SOAP (JAX‑WS),
+Seguridad JAAS, Servidor de Aplicaciones JBoss Wildfly. También incluimos Spring Boot y desarrollo Full Stack con Angular y Spring
+
+FEBRUARY 12, 2023
+
+FRANKLiN HAMER JARA · RESUMEN
+
+2
+
+Cursos Certificados
+Centro Tecnológico de la Información y la Comunicación
+PDE MACHiNE LEARNiNG CON PYTHON
+
+Lima, Perú
+
+Agosto. 2022 ‑ Noviembre. 2022
+
+• Fundamentos de Data Science y Machine Learning,Matemática, Estadística y Probabilidades,Algoritmos y Programación en Python
+• Preprocesamiento de datos: Tratamiento de missings y outliers, Ingeniería de Características y Selección de Características
+• Herramientas de aprendizaje automático.
+• Aprendizaje supervisado.Regresión lineal, Regresión logística Naive Bayes, Máquinas de Vectores de Soporte (SVM), Arboles de decisión, Ran‑
+
+dom Forest y XGBoost
+
+• Aprendizaje no supervisado:Análisis de clusters y Reducción de dimensiones
+• Deep Learning. Redes neuronales
+• Aplicaciones de datos no estructurados: Procesamiento del lenguaje natural, Fundamentos de procesamiento de imágenes y Fundamentos de
+
+Web Scrapping
+
+Departamento de Lenguajes y sistemas informaticos de la Universidad de Alicante
+DESARROLLO WEB I
+
+Alicante, España
+
+Setiembre. 2022 ‑ Octubre. 2022
+
+• Diseño y Desarrollo de páginas web profesionales adaptables a distintos dispositivos.
+
+Departamento de Lenguajes y sistemas informáticos de la Universidad de Alicante
+DESARROLLO WEB II
+
+Alicante, España
+
+Setiembre. 2022 ‑ Octubre. 2022
+
+• Diseño y Desarrollo de páginas web profesionales adaptables a distintos dispositivos.
+Platzi
+CURSO DE MANiPULACiÓN Y TRANSFORMACiÓN DE DATOS CON PANDAS Y NUMPY
+
+Lima, Perú
+
+Setiembre. 2022 ‑ Diciembre. 2022
+
+• Agrega datos y maneja datos nulos en tus DataFrames
+• Lee, filtra y combina datos en forma tabular con Pandas
+• Utiliza condiciones para filtrar tus arrays de NumPy
+• Maneja arrays de diferentes dimensiones con NumPy
+
+Platzi
+CiENCiAS DE DATOS CON JUPiTER NOTEBOOKS Y ANACONDA
+
+Lima, Perú
+
+Diciembre. 2022
+
+• Conoce diferentes tipos de Jupyter Notebooks, la herramienta de trabajo fundamental para toda científica de datos que utilizaás en tus proyec‑
+
+tos y en toda la Escuela de Data Science.
+
+Platzi
+ADMiNiSTRACiÓN DE SERViDORES LiNUX
+
+• Administrar paquetes acorde a la distribución
+• Configurar herramientas para monitorizar procesos y servicios
+•
+
+Instalar servicios web y configurarlos para entornos de producción
+
+Platzi
+CURSO DE MYSQL Y MARiADB
+
+• Herramientas avanzadas como triggers, store procedures y consultas anidadas.
+• Traduce diagramas físicos y conceptuales a código SQL
+• Ejecuta sentencias y consultas SQL
+
+Corporate Social Responsibility (CISCO)
+EMERGiNG TECHNOLOGiES WORKSHOP: MODEL DRiVEN PROGRAMMABiLiTY
+
+Lima, Perú
+
+Setiembre. 2022 ‑ Octubre. 2022
+
+Lima, Perú
+
+Setiembre. 2022 ‑ Octubre. 2022
+
+Lima, Perú
+
+Setiembre. 2021 ‑ Diciembre. 2021
+
+• Explicar el concepto de API y la importancia de las API RESTful para integración de software.
+• Explicar cómo la programabilidad de la red mejora la gestión de la red. y automatización.
+• Explicar las ventajas de usar API de dispositivos basadas en modelos, en comparación con un enfoque tradicional basado en CLI para la au‑
+
+tomatización de redes.
+
+• Explicar cómo los modelos de dispositivos YANG definen la estructura, sintaxis y reglas de validación para los datos del dispositivo.
+
+Habilidades
+Software
+DevOps
+
+Visual Strudio, Jupyter, Apache NetBeans, Intellij Ide. Sublime Text, Eclipse
+
+AWS, Docker, Kubernetes, Jenkins, Github
+
+Back‑end Express, Flask, Django, REST API,Laravel, php
+Front‑end React, HTML5, CSS
+
+Programming Node.js, Python, JAVA, C++, R, LaTeX, C
+Base de Datos
+Languages
+
+Español, English
+
+Postgres, MongoDB, MySql, Dynamon, Prometheus, Influxdb
+
+FEBRUARY 12, 2023
+
+FRANKLiN HAMER JARA · RESUMEN
+
+3
+
+
