@@ -6,6 +6,7 @@ import funciones
 
 
 def segmentacion_(text):
+
     informacion_personal= re.compile(r'(.*?)\nResumen', re.DOTALL)
     resumen =re.compile(r'Resumen(.*?)Experiencia laboral',re.DOTALL)
     experiencia_laboral = re.compile(r'Experiencia laboral(.*?)Honores y reconocimientos', re.DOTALL)
@@ -14,6 +15,7 @@ def segmentacion_(text):
     educacion = re.compile(r'Educación(.*?)Cursos Certificados', re.DOTALL)
     cursos_certificados = re.compile(r'Cursos Certificados(.*?)Habilidades', re.DOTALL)
     habilidades = re.compile(r'Habilidades(.*?)  ', re.DOTALL)
+    print(habilidades)
 
 
 
@@ -25,17 +27,17 @@ def segmentacion_(text):
     educacion = educacion.search(text).group(1).strip()
     cursos_certificados = cursos_certificados.search(text).group(1).strip()
     habilidades = habilidades.search(text).group(1).strip()
-    print(habilidades)
+    print(educacion)
 
     #rutas creadas
-    ruta_informacion_personal ='./data_segmentada/informacion_personal/Hamer_franklin.txt'
-    ruta_resumen ='./data_segmentada/resumen/Hamer_franklin.txt'
-    ruta_experiecia_laboral ='./data_segmentada/experiencia_laboral/Hamer_franklin.txt'
-    ruta_honores_reconocimientos ='./data_segmentada/honores_reconocimientos/Hamer_franklin.txt'
-    ruta_proyectos ='./data_segmentada/proyectos/Hamer_franklin.txt'
-    ruta_educacion ='./data_segmentada/educacion/Hamer_franklin.txt'
-    ruta_cursos_certificados ='./data_segmentada/cursos_certificados/Hamer_franklin.txt'
-    ruta_habilidades ='./data_segmentada/habilidades/Hamer_franklin.txt'
+    ruta_informacion_personal ='./data_segmentada/informacion_personal/Hamer_Franklin.txt'
+    ruta_resumen ='./data_segmentada/resumen/Hamer_Franklin.txt'
+    ruta_experiecia_laboral ='./data_segmentada/experiencia_laboral/Hamer_Franklin.txt'
+    ruta_honores_reconocimientos ='./data_segmentada/honores_reconocimientos/Hamer_Franklin.txt'
+    ruta_proyectos ='./data_segmentada/proyectos/Hamer_Franklin.txt'
+    ruta_educacion ='./data_segmentada/educacion/Hamer_Franklin.txt'
+    ruta_cursos_certificados ='./data_segmentada/cursos_certificados/Hamer_Franklin.txt'
+    ruta_habilidades ='./data_segmentada/habilidades/Hamer_Franklin.txt'
 
     funciones.escribir_txt(informacion_personal,ruta_informacion_personal)
     funciones.escribir_txt(resumen,ruta_resumen)

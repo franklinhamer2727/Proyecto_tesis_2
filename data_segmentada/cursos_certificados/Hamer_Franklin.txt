@@ -1,0 +1,60 @@
+Centro Tecnológico de la Información y la Comunicación
+PDE MACHiNE LEARNiNG CON PYTHON
+Lima Perú
+Agosto   Noviembre 
+ Fundamentos de Data Science y Machine LearningMatemática Estadística y ProbabilidadesAlgoritmos y Programación en Python
+ Preprocesamiento de datos Tratamiento de missings y outliers Ingeniería de Características y Selección de Características
+ Herramientas de aprendizaje automático
+ Aprendizaje supervisadoRegresión lineal Regresión logística Naive Bayes Máquinas de Vectores de Soporte SVM Arboles de decisión Ran
+dom Forest y XGBoost
+ Aprendizaje no supervisadoAnálisis de clusters y Reducción de dimensiones
+ Deep Learning Redes neuronales
+ Aplicaciones de datos no estructurados Procesamiento del lenguaje natural Fundamentos de procesamiento de imágenes y Fundamentos de
+Web Scrapping
+Departamento de Lenguajes y sistemas informaticos de la Universidad de Alicante
+DESARROLLO WEB I
+Alicante España
+Setiembre   Octubre 
+ Diseño y Desarrollo de páginas web profesionales adaptables a distintos dispositivos
+Departamento de Lenguajes y sistemas informáticos de la Universidad de Alicante
+DESARROLLO WEB II
+Alicante España
+Setiembre   Octubre 
+ Diseño y Desarrollo de páginas web profesionales adaptables a distintos dispositivos
+Platzi
+CURSO DE MANiPULACiÓN Y TRANSFORMACiÓN DE DATOS CON PANDAS Y NUMPY
+Lima Perú
+Setiembre   Diciembre 
+ Agrega datos y maneja datos nulos en tus DataFrames
+ Lee filtra y combina datos en forma tabular con Pandas
+ Utiliza condiciones para filtrar tus arrays de NumPy
+ Maneja arrays de diferentes dimensiones con NumPy
+Platzi
+CiENCiAS DE DATOS CON JUPiTER NOTEBOOKS Y ANACONDA
+Lima Perú
+Diciembre 
+ Conoce diferentes tipos de Jupyter Notebooks la herramienta de trabajo fundamental para toda científica de datos que utilizaás en tus proyec
+tos y en toda la Escuela de Data Science
+Platzi
+ADMiNiSTRACiÓN DE SERViDORES LiNUX
+ Administrar paquetes acorde a la distribución
+ Configurar herramientas para monitorizar procesos y servicios
+Instalar servicios web y configurarlos para entornos de producción
+Platzi
+CURSO DE MYSQL Y MARiADB
+ Herramientas avanzadas como triggers store procedures y consultas anidadas
+ Traduce diagramas físicos y conceptuales a código SQL
+ Ejecuta sentencias y consultas SQL
+Corporate Social Responsibility CISCO
+EMERGiNG TECHNOLOGiES WORKSHOP MODEL DRiVEN PROGRAMMABiLiTY
+Lima Perú
+Setiembre   Octubre 
+Lima Perú
+Setiembre   Octubre 
+Lima Perú
+Setiembre   Diciembre 
+ Explicar el concepto de API y la importancia de las API RESTful para integración de software
+ Explicar cómo la programabilidad de la red mejora la gestión de la red y automatización
+ Explicar las ventajas de usar API de dispositivos basadas en modelos en comparación con un enfoque tradicional basado en CLI para la au
+tomatización de redes
+ Explicar cómo los modelos de dispositivos YANG definen la estructura sintaxis y reglas de validación para los datos del dispositivo
